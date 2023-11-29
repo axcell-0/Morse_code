@@ -83,6 +83,7 @@ puts decoded_message
 
 <!-- FUTURE FEATURES -->
 
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Add Account System**
