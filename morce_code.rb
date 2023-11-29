@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# morse_char
+
 MORSE_CODE_MAPPING = {
   '.-' => 'a',
   '-...' => 'b',
@@ -45,7 +47,7 @@ end
 
 # Method to decode an entire word in Morse code
 def decode_word(morse_word)
-  morse_word.split(' ').map { |char| decode_morse_char(char) }.join('').upcase
+  morse_word.split.map { |char| decode_morse_char(char) }.join.upcase
 end
 
 # Method to decode the entire message in Morse code
