@@ -41,7 +41,15 @@ def decode_char(morse_char)
 
   morse_code_mapping[morse_char] || ''
 end
-  
+
+def decode_word(morse_word)
+  morse_word.split(' ').map { |char| decode_char(char) }.join('').upcase
+end
+
+def decode(message)
+  words = message.split('   ')
+  words.map { |word| decode_word(word) }.join(' ')
+end
 morse_char_example = ".-"
 decoded_char = decode_char(morse_char_example)
 puts decoded_char
