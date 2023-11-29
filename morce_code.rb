@@ -42,3 +42,12 @@ def decode_char(morse_char)
   morse_code_mapping[morse_char] || ''
 end
   
+morse_char_example = ".-"
+decoded_char = decode_char(morse_char_example)
+puts decoded_char
+morse_word_example = "-- -.--"
+decoded_word = decode_word(morse_word_example)
+puts decoded_word
+morse_message_example = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
+decoded_message = decode(morse_message_example)
+puts decoded_message
