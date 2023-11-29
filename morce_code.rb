@@ -1,7 +1,3 @@
-# frozen_string_literal: true
-
-# morse_char
-
 MORSE_CODE_MAPPING = {
   '.-' => 'a',
   '-...' => 'b',
