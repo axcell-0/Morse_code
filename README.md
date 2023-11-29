@@ -9,17 +9,17 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Morse Code Decoder](#-morse-code-decoder)
-  - [🛠 Built With](#-built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [📖 Morse Code Decoder ](#-morse-code-decoder-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
   - [Getting Started](#getting-started)
-  - [👥 Author](#-author)
-  - [🔭 Future Features](#-future-features)
-  - [🤝 Contributing](#-contributing)
-  - [⭐️ Show your support](#️-show-your-support)
-  - [🙏 Acknowledgments](#-acknowledgments)
-  - [📝 License](#-license)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -64,10 +64,20 @@ puts decoded_message
 
 ## 👥 Author <a name="author"></a>
 
-👤 axcell
+👤 **Axcell Evans**
 
-- GitHub: [@axcell-0](https://github.com/axcell-0)
+- GitHub: [@githubhandle](https://github.com/axcell-0)
 
+👤 **Austin Obimbo**
+
+- GitHub: [@githubhandle](https://github.com/Obimbo07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/austin-obimbo-9a613623a/)
+- WellFound: [Wellfound](https://wellfound.com/austin-obimbo).
+
+👤 **George Hamman**
+
+- GitHub: [@githubhandle](https://github.com/George7h)
+- LinkedIn: <a href="https://www.linkedin.com/in/george-hamman-95b98224b/">George Hamman</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
